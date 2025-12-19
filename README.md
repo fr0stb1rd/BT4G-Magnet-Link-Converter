@@ -1,5 +1,7 @@
 # BT4G Magnet Link Converter
 
+[Blog](https://fr0stb1rd.gitlab.io/posts/BT4G-Magnet-Link-Converter/) \| [GitHub](https://github.com/fr0stb1rd/BT4G-Magnet-Link-Converter) \| [GitLab](https://gitlab.com/fr0stb1rd/bt4g-magnet-link-converter) \| [Script](https://greasyfork.org/tr/scripts/559492-bt4g-magnet-link-converter)
+
 A Userscript that automatically converts download links on **BT4G** websites (bt4gprx.com, bt4g.com, bt4g.org) into direct **Magnet links** and copies them to your clipboard with a single click.
 
 ## Features
