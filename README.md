@@ -24,7 +24,7 @@ A Userscript that automatically converts download links on **BT4G** websites (bt
     *   [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 2.  Install the script:
     *   **[Install from Greasy Fork](https://greasyfork.org/tr/scripts/559492-bt4g-magnet-link-converter)** (Recommended)
-    *   [Install from GitHub](https://github.com/fr0stb1rd/bt4g-magnet-converter/raw/main/bt4g_magnet.user.js)
+    *   [Install from GitHub](https://github.com/fr0stb1rd/BT4G-Magnet-Link-Converter/raw/refs/heads/main/bt4g_magnet.user.js)
 3.  Confirm the installation in your userscript manager.
 
 ## Usage
